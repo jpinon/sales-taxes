@@ -1,0 +1,6 @@
+sales-taxes:
+  bag-of-words:
+    words: >
+      chocolate,
+      book,
+      headache pill
