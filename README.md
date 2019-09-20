@@ -1,9 +1,4 @@
-TODO:
-
-* Upload to github
-* link to Travis CI
-
-#Sales Taxes
+# Sales Taxes
 
 This code has been written to solve an interview challenge:
 
@@ -31,4 +26,4 @@ Write an application that prints out the receipt details for these shopping bask
 
 ### How to run
 * go to project directory
-* run `java -jar main/target/sales-taxes-0.1.0-SNAPSHOT.jar`
+* run `java -jar main/target/sales-taxes-0.1.0.jar`
