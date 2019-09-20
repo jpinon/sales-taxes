@@ -5,7 +5,7 @@
   <parent>
     <artifactId>sales-taxes</artifactId>
     <groupId>com.jpinon</groupId>
-    <version>0.1.0-SNAPSHOT</version>
+    <version>0.1.0</version>
   </parent>
   <modelVersion>4.0.0</modelVersion>
 
@@ -15,17 +15,17 @@
     <dependency>
       <groupId>com.jpinon</groupId>
       <artifactId>core</artifactId>
-      <version>0.1.0-SNAPSHOT</version>
+      <version>${project.version}</version>
     </dependency>
     <dependency>
       <groupId>com.jpinon</groupId>
       <artifactId>bag-of-words-provider-yaml</artifactId>
-      <version>0.1.0-SNAPSHOT</version>
+      <version>${project.version}</version>
     </dependency>
     <dependency>
       <groupId>com.jpinon</groupId>
       <artifactId>input-output-adapter-rest</artifactId>
-      <version>0.1.0-SNAPSHOT</version>
+      <version>${project.version}</version>
     </dependency>
     <dependency>
       <groupId>org.springframework.boot</groupId>
@@ -35,7 +35,7 @@
   </dependencies>
 
   <build>
-    <finalName>sales-taxes-${version}</finalName>
+    <finalName>sales-taxes-${project.version}</finalName>
     <plugins>
       <plugin>
         <groupId>org.springframework.boot</groupId>
