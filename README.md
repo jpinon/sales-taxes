@@ -1,4 +1,4 @@
-#Sales Taxes
+# Sales Taxes
 
 This code has been written to solve an interview challenge:
 
