@@ -26,4 +26,4 @@ Write an application that prints out the receipt details for these shopping bask
 
 ### How to run
 * go to project directory
-* run `java -jar main/target/sales-taxes-0.1.0.jar`
+* run `java -jar main/target/sales-taxes-0.2.0.jar`

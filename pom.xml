@@ -7,7 +7,7 @@
   <groupId>com.jpinon</groupId>
   <artifactId>sales-taxes</artifactId>
   <packaging>pom</packaging>
-  <version>0.1.0</version>
+  <version>0.2.0</version>
   <modules>
     <module>core</module>
     <module>bag-of-words-adapter-yaml</module>
