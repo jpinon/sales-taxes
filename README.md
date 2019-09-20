@@ -1,8 +1,3 @@
-TODO:
-
-* Upload to github
-* link to Travis CI
-
 #Sales Taxes
 
 This code has been written to solve an interview challenge:
