@@ -24,7 +24,7 @@
     <junit-jupiter.version>5.5.2</junit-jupiter.version>
     <maven-surefire-plugin.version>2.22.2</maven-surefire-plugin.version>
     <checkstyle.plugin.version>3.0.0</checkstyle.plugin.version>
-    <puppycrawl.tools.version>8.19</puppycrawl.tools.version>
+    <puppycrawl.tools.version>8.29</puppycrawl.tools.version>
   </properties>
 
   <build>
